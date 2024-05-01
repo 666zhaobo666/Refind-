@@ -1,6 +1,6 @@
 ## Refind 多系统引导教程
 
-![res](./assets/res-1714555830744-2.jpg)
+![res](./assets/res.jpg)
 
 ​        一般情况下，电脑会安装 Windows 和 Linux 双系统，甚至加上 MAC OS 三系统。那么多系统引导一般采用的是 Linux 的引导项作为首选项，因为 Windows 无法引导 Linux。但是这样很不美观而且无法自定义。所以为了方便使用，写了关于多系统引导工具**ReFind**的使用教程。
 
