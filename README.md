@@ -892,4 +892,4 @@
 
 ![res](./assets/res.jpg)
 
-我会把说明文档和Refind文件放在https://github.com/666zhaobo666/Refind-中，欢迎使用！
+我会把说明文档和Refind文件放在https://github.com/666zhaobo666/Refind-  中，欢迎使用！
